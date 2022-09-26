@@ -1,0 +1,6 @@
+h1{
+    border-image: fill;
+    border-image: url("images/image2.jpeg");
+    border-spacing: revert;
+    border-color: blue;
+}

@@ -1,0 +1,23 @@
+h,h1,h3,input {
+    background-color:blueviolet ;
+    background-size: 100%;
+    padding: 5px;
+    font-size: 14px;
+    background-size: 100%;
+    font-weight: bold;
+    font-style: ;
+
+
+}
+h1 {
+    text-align: center;
+    text-transform: capitalize;
+}
+h3 {
+    text-align: center;
+}
+h,input {
+    background-color:cyan;
+
+
+}

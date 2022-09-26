@@ -1,0 +1,14 @@
+h2{
+    color: blue;
+    font-size: 20;
+    font-family: Inconsolata;
+    text-align: center;
+}
+ul,ol{
+    text-align: center;
+    background-color: aqua;
+    padding: 20px;
+    font-size: 18px;
+
+
+}

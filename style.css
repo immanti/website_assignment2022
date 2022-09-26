@@ -1,0 +1,10 @@
+h1,h2,h3,h4,h5,h6{
+    color: blue;
+    font-family: "Mishafi Gold";
+    font-size: 25px;
+}
+p{
+    color: brown;
+    font-family: "American Typewriter";
+    font-size: 30px;
+}

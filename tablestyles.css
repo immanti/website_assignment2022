@@ -1,0 +1,17 @@
+table{
+    width: 100%;
+    color: mediumvioletred;
+   border-collapse: collapse;
+}
+td,th {
+    border: 1px dashed darkblue;
+    padding: 10px;
+    text-align: center;
+}
+tr:nth-child (even){
+    background-color: aqua;
+
+}
+th{
+    background-color:powderblue;
+}
